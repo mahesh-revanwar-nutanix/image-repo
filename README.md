@@ -22,3 +22,5 @@
 <img width="424" alt="Status_01" src="https://user-images.githubusercontent.com/58459998/215720767-57eff6aa-308d-4fd9-8bc5-8403c677af7f.png">
 ![Newsletter-Banner Feb](https://user-images.githubusercontent.com/58459998/222421959-58c9f22c-1e00-432c-8e40-6bb381957153.png)
 ![Header-in-Feb](https://user-images.githubusercontent.com/58459998/222730653-052fb6cb-7a37-4612-a33a-22e34f3127cc.png)
+![Design in July_Header](https://github.com/mahesh-revanwar-nutanix/image-repo/assets/58459998/7e88c648-e19d-471e-b2ee-e29900e696d0)
+![Design in July_Footer2](https://github.com/mahesh-revanwar-nutanix/image-repo/assets/58459998/36b59508-fad6-4df5-8b27-67c4d9e896f9)
