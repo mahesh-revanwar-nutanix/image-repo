@@ -1,4 +1,4 @@
-# image-repo
+  # image-repo
 
 ![1 (1)](https://user-images.githubusercontent.com/58459998/127442938-fa97edc9-f2fd-4b79-ab61-e0c493e8f9bf.png)
 ![2 (1)](https://user-images.githubusercontent.com/58459998/127442951-50060d31-ee9a-4fe2-882d-d4bfe64ae635.png)
@@ -24,3 +24,4 @@
 ![Header-in-Feb](https://user-images.githubusercontent.com/58459998/222730653-052fb6cb-7a37-4612-a33a-22e34f3127cc.png)
 ![Design in July_Header](https://github.com/mahesh-revanwar-nutanix/image-repo/assets/58459998/7e88c648-e19d-471e-b2ee-e29900e696d0)
 ![Design in July_Footer2](https://github.com/mahesh-revanwar-nutanix/image-repo/assets/58459998/36b59508-fad6-4df5-8b27-67c4d9e896f9)
+![Design in July_Footer_Revised](https://github.com/mahesh-revanwar-nutanix/image-repo/assets/58459998/151503e7-58a2-46f1-9c6a-25e8f2220fc5)
